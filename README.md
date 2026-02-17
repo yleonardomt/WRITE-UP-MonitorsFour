@@ -1,8 +1,4 @@
 # 🖥️ MonitorsFour — HackTheBox Writeup
-
-**Dificultad:** Easy · **OS:** Windows · **Autor:** YH0N4T4NR00T
-**Fecha de resolución:** 17 de Febrero, 2026
-
 ---
 
 ## 🧠 ¿Qué aprendí en esta máquina?
